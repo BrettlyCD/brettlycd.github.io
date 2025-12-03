@@ -4,16 +4,6 @@ title: What I'm Reading
 subtitle: And my all-time favorites
 ---
 
-### Currently Reading:
-
-[**_Principles: Life and Work_**](https://www.goodreads.com/book/show/34536546-principles)
-\
-Ray Dalio
-\
-![Cover of Principles: Life and Work by Ray Dalio](assets/img/read-img/principles.jpg)
-
-
-
 ### All-time Faves:
 - [**_A Thousand Splendid Suns_**](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns) - Khaled Hosseini
 - [**_The Shack_**](https://www.goodreads.com/book/show/1812457.The_Shack) - William Paul Young
