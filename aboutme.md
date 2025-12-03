@@ -20,4 +20,4 @@ In 2018, I graduated with a degree in accounting but had a strong feeling that a
 
 I decided 2023 would be a year of change and enrolled in Springboard's data track to invest my time and efforts in building my skills. Now I look forward to shifting careers, solving problems with data, and not only scratching that data itch - but chasing my passions.
 
-It would be great to learn more about you to! Feel free to reach out on any of the links below if you would like to connect!
+It would be great to learn more about you too! Feel free to reach out on any of the links below if you would like to connect!
